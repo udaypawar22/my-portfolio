@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input[type="text"],
+input[type="email"] {
+  @apply appearance-none mb-4 bg-transparent border-b border-gray-400 w-full text-gray-700 leading-tight focus:outline-none;
+}
