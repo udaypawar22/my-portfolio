@@ -152,7 +152,7 @@ export default function ResumePage({ className }) {
           </div>
           <div className="flex flex-col gap-2">
             <div className="flex justify-between mx-3">
-              <span className={addClassNames()}>ReaxtJs</span>
+              <span className={addClassNames()}>ReactJs</span>
               <span className={addClassNames()}>NodeJs</span>
               <span className={addClassNames()}>ExpressJs</span>
             </div>
