@@ -90,7 +90,9 @@ export default function ContactPage({ className }) {
               </div>
               <div className="flex flex-col justify-center">
                 <h1 className="font-semibold">Email</h1>
-                <span className="text-gray-500">+91 9175636959</span>
+                <span className="text-gray-500">
+                  udaysinghpawar0302@gmail.com
+                </span>
               </div>
             </div>
           </div>

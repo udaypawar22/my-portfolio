@@ -143,8 +143,7 @@ export default function HomePage() {
           <div className="flex mx-8 py-3 gap-2">
             <div className="p-4">
               <svg
-                width="16"
-                height="22"
+                className="w-6 h-6"
                 viewBox="0 0 16 22"
                 fill="none"
                 xmlns="http://www.w3.org/2000/svg"

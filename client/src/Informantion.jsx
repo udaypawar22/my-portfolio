@@ -42,11 +42,10 @@ export default function Information({ className }) {
             </span>
           </div>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce
-            volutpat volutpat libero, eu facilisis tortor mollis at. Suspendisse
-            potenti. Suspendisse potenti. Vestibulum laoreet cursus odio, id
-            maximus tellus facilisis vel. Nunc et velit eu velit tincidunt
-            gravida nec id arcu. Aenean at libero consequat
+            MERN stack development provides a powerful and efficient way to
+            build feature-rich web applications. It empowers developers to work
+            with JavaScript across the entire application stack, enabling
+            seamless data flow and a smooth user experience.
           </p>
         </div>
         <div className="bg-devcard rounded-xl p-3 shadow">
@@ -143,11 +142,10 @@ export default function Information({ className }) {
             <span className="font-semibold text-lg">Problem Solving</span>
           </div>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce
-            volutpat volutpat libero, eu facilisis tortor mollis at. Suspendisse
-            potenti. Suspendisse potenti. Vestibulum laoreet cursus odio, id
-            maximus tellus facilisis vel. Nunc et velit eu velit tincidunt
-            gravida nec id arcu. Aenean at libero
+            Problem solving using Java is a fundamental aspect of software
+            development. Java, being a versatile and widely-used programming
+            language, is well-suited for implementing various algorithms and
+            data structures to solve a wide range of problems efficiently.
           </p>
         </div>
       </div>
